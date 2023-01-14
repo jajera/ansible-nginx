@@ -1,6 +1,6 @@
 # ansible-nginx
 
-for docker image
+For docker image test machine
 ```sh
 echo 'root:P@ssw0rd' | chpasswd
 sed -i 's/PermitRootLogin no/PermitRootLogin yes/' /etc/ssh/sshd_config
